@@ -1,0 +1,8 @@
+C:\Users\ASUS\Documents\Semester 2\pemograman\Tugas 6\Tugas 6\bin\Debug\Tugas 6.exe.config
+C:\Users\ASUS\Documents\Semester 2\pemograman\Tugas 6\Tugas 6\bin\Debug\Tugas 6.exe
+C:\Users\ASUS\Documents\Semester 2\pemograman\Tugas 6\Tugas 6\bin\Debug\Tugas 6.pdb
+C:\Users\ASUS\Documents\Semester 2\pemograman\Tugas 6\Tugas 6\obj\Debug\Tugas 6.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Semester 2\pemograman\Tugas 6\Tugas 6\obj\Debug\Tugas 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\Semester 2\pemograman\Tugas 6\Tugas 6\obj\Debug\Tugas 6.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Semester 2\pemograman\Tugas 6\Tugas 6\obj\Debug\Tugas 6.exe
+C:\Users\ASUS\Documents\Semester 2\pemograman\Tugas 6\Tugas 6\obj\Debug\Tugas 6.pdb

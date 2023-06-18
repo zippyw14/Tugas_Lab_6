@@ -1,0 +1,8 @@
+C:\Users\ASUS\Documents\Semester 2\pemograman\PrinterWindows\PrinterWindows\obj\Debug\PrinterWindows.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Semester 2\pemograman\PrinterWindows\PrinterWindows\obj\Debug\PrinterWindows.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\Semester 2\pemograman\PrinterWindows\PrinterWindows\obj\Debug\PrinterWindows.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Semester 2\pemograman\PrinterWindows\PrinterWindows\bin\Debug\PrinterWindows.exe.config
+C:\Users\ASUS\Documents\Semester 2\pemograman\PrinterWindows\PrinterWindows\bin\Debug\PrinterWindows.exe
+C:\Users\ASUS\Documents\Semester 2\pemograman\PrinterWindows\PrinterWindows\bin\Debug\PrinterWindows.pdb
+C:\Users\ASUS\Documents\Semester 2\pemograman\PrinterWindows\PrinterWindows\obj\Debug\PrinterWindows.exe
+C:\Users\ASUS\Documents\Semester 2\pemograman\PrinterWindows\PrinterWindows\obj\Debug\PrinterWindows.pdb
